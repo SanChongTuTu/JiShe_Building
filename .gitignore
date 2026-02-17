@@ -74,7 +74,6 @@ StyleCopReport.xml
 *_p.c
 *_h.h
 *.ilk
-# *.meta
 *.obj
 *.iobj
 *.pch
@@ -372,14 +371,14 @@ FodyWeavers.xsd
 MemoryCaptures/
 Recordings/
 
-# Unity ï¿½ï¿½ï¿½ï¿½ï¿½Ä¼ï¿½
+# Unity Éú³ÉÎÄ¼þ
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
 sysinfo.txt
 crashlytics-build.properties
 
-# ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
+# ¹¹½¨Êä³ö
 *.apk
 *.aab
 *.unitypackage
